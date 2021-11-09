@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    min-height: 1000px;
+    background-color: #a8d8ea;
+}
+hr{
+   
+    border-style: none;
+    border-top-style: dotted;
+    width: 30%;
+    border-width: 10px;
+    margin: 0 auto;
+    color:#e72f2f;
+    background-color: transparent;
+    overflow: hidden;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    padding: 0 100px;
+    background: #000;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    transition: 1s;
+}
+.para{
+    text-align: justify;
+    font-weight: 400;
+    line-height: 27px;
+}
+header.sticky{
+    height: 80px;
+}
+header .banner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 1s;
+    
+   
+    
+}
+header.sticky .banner{
+    opacity: 0.5;
+}
+header .logo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    transition: 1s;
+    text-decoration: none;
+    z-index: 1;
+}
+header.sticky #title{
+    position: absolute;
+    font-size: 3em;
+    left: 40px;
+    top: 50px;
+    transform: translate(0,-50%);
+}
+nav{
+    position: relative;
+    display: flex;
+    z-index: 1;
+}
+nav ul{
+    position: relative;
+    display: flex;
+    transition: 0.25s;
+    transform: translateX(100px);
+    opacity: 0;
+}
+header.sticky nav ul{
+    transform: translateX(0);
+    opacity: 1;
+    transition-delay: 0.75s;
+    opacity: 1;
+    visibility: visible;
+    }
+
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    color: #fff;
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #ff275f;
+}
+section{
+    margin-top: 60vh;
+}
+
+@media (max-width: 991px){
+
+    header{
+        padding: 40px;
+    }
+    header.sticky .banner{
+        left: 0;
+        opacity: 0;
+    }
+    nav ul{
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    nav.active ul{
+        position: fixed;
+        top: 80px;
+        left: 0;
+        width: 100%;
+        height: calc(100% - 80px);
+        background: #000;
+        display: flex;
+        justify-content: baseline;
+        align-items: center;
+        flex-direction: column;
+       
+    }
+    
+    nav ul li a{
+        font-size: 1.5em;
+        padding: 5px 15px;
+    }
+    header.sticky .toggle{
+        position: fixed;
+        top: 15px;
+        right: 40px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        background: #fff url(icons/menu.png);
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    header.sticky .toggle.active{
+        background: #fff url(icons/close.png);
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+#title{
+    position: relative;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 4px;
+    text-align: center;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(17, 10, 10), #fff, rgb(65, 65, 65));
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 4s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  }
+  
+  @keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
+  }
+
+.section1{
+    border-radius: 77px;
+background: #aa96da;
+box-shadow:  37px 37px 100px #cabbe9,
+             -37px -37px 100px #cabbe9;
+}
+.section2{
+    border-radius: 70px;
+    background: linear-gradient(145deg, #e72f2f, #c22828);
+    box-shadow:  6px 6px 12px #841b1b,
+                 -6px -6px 12px #ff3d3d;
+}
