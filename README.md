@@ -9,3 +9,4 @@ Down here you will find all the live previews of projects.
 
  | Day   | Project Name    | Source Code/Preview |
 | :---  | :------------- | :------------------ |  
+| Day-1 | Animated Parallax Water Wave Effects  | https://Animated-Parallax-Water-Wave-Effects.bazil21.repl.co |
