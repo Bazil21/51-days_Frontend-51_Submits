@@ -1,7 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="51-Days frontend 51-days submit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="/banner.png">
 
 # 51days51submits
 
