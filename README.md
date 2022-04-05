@@ -12,3 +12,5 @@ Down here you will find all the live previews of projects.
 | Day-1 | Animated Parallax Water Wave Effects  | https://Animated-Parallax-Water-Wave-Effects.bazil21.repl.co |
 | Day-2 | Button Ripple Effect on Click  | https://Button-Ripple-Effect-on-Click.bazil21.repl.co |
 | Day-3 | CSS Glassmorphism Card Hover Effects  | https://CSS-Glassmorphism-Card-Hover-Effects.bazil21.repl.co |
+| Day-3 | CSS Image Hover Overlay Effects | https://CSS-Image-Hover-Overlay-Effects.bazil21.repl.co |
+
