@@ -13,4 +13,5 @@ Down here you will find all the live previews of projects.
 | Day-3 | CSS Glassmorphism Card Hover Effects  | https://CSS-Glassmorphism-Card-Hover-Effects.bazil21.repl.co |
 | Day-4 | CSS Image Hover Overlay Effects | https://CSS-Image-Hover-Overlay-Effects.bazil21.repl.co |
 | Day-5 | CSS Loading Animation | https://CSS-Loading-Animation.bazil21.repl.co |
+| Day-6 | CSS Responsive Card Hover Effects | https://CSS-Responsive-Card-Hover-Effects.bazil21.repl.co |
 
