@@ -14,4 +14,5 @@ Down here you will find all the live previews of projects.
 | Day-4 | CSS Image Hover Overlay Effects | https://CSS-Image-Hover-Overlay-Effects.bazil21.repl.co |
 | Day-5 | CSS Loading Animation | https://CSS-Loading-Animation.bazil21.repl.co |
 | Day-6 | CSS Responsive Card Hover Effects | https://CSS-Responsive-Card-Hover-Effects.bazil21.repl.co |
+| Day-7 | Code Editor | https://Code-Editor.bazil21.repl.co |
 
