@@ -17,4 +17,5 @@ Down here you will find all the live previews of projects.
 | Day-7 | Code Editor | https://Code-Editor.bazil21.repl.co |
 | Day-8 | Floating Action Menu | https://FloatingActionMenu.bazil21.repl.co |
 | Day-9 | Glowing Checkbox Design With Icon | https://Glowing-Checkbox-Design-With-Icon.bazil21.repl.co |
+| Day-10 | Parallax Effect HTML CSS | https://Glowing-Checkbox-Design-With-Icon.bazil21.repl.co |
 
