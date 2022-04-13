@@ -19,4 +19,4 @@ Down here you will find all the live previews of projects.
 | Day-9 | Glowing Checkbox Design With Icon | https://Glowing-Checkbox-Design-With-Icon.bazil21.repl.co |
 | Day-10 | Parallax Effect HTML CSS | https://Parallax-Effect-HTML-CSS.bazil21.repl.co |
 | Day-11 | Passsword Generator | https://Password-Generator.bazil21.repl.co |
-| Day-12 | Pop-Up Modal | https://Password-Generator.bazil21.repl.co |
+| Day-12 | Pop-Up Modal | https://Pop-Up-Modal.bazil21.repl.co |
