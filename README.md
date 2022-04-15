@@ -21,3 +21,4 @@ Down here you will find all the live previews of projects.
 | Day-11 | Passsword Generator | https://Password-Generator.bazil21.repl.co |
 | Day-12 | Pop-Up Modal | https://Pop-Up-Modal.bazil21.repl.co |
 | Day-13 |Random Color Slot Generator | https://Random-Color-Slot-Generator.bazil21.repl.co |
+| Day-14 |Random Color Slot Generator | https://Random-Color-Slot-Generator.bazil21.repl.co |
