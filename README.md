@@ -23,3 +23,4 @@ Down here you will find all the live previews of projects.
 | Day-13 | Random Color Slot Generator | https://Random-Color-Slot-Generator.bazil21.repl.co |
 | Day-14 | Responsive Fullscreen Animated Sticky Header | https://Responsive-Fullscreen-Animated-Sticky-Header.bazil21.repl.co |
 | Day-15 | Scratch-Off Reveal | https://Scratch-Off-Reveal.bazil21.repl.co |
+| Day-15 | Scratch-Off Reveal | https://Scratch-Off-Reveal.bazil21.repl.co |
